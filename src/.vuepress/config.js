@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/intro/',
   title: 'cdr.today',
   description: 'Louder than words.',
   themeConfig: {
