@@ -7,10 +7,11 @@ module.exports = {
       '/', 
       '/download',
     {
-      title: '版本',
+      title: '日志',
       children: [
-	'/versions/',
-	'/versions/v0.1.x'
+	'/versions/v0.1.x',
+	'/versions/v0.2.x',
+	'/versions/v0.3.x'
       ]
     }],
     displayAllHeaders: true
