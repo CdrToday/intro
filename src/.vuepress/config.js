@@ -5,15 +5,19 @@ module.exports = {
   themeConfig: {
     sidebar: [
       '/', 
-      '/download',
-    {
-      title: '日志',
-      children: [
-	'/versions/v0.1.x',
-	'/versions/v0.2.x',
-	'/versions/v0.3.x'
-      ]
-    }],
+      {
+	title: '设计',
+	path: '/arch/'
+      },{
+	title: '版本',
+	path: '/versions/',
+	children: [
+	  '/versions/v0.1.x',
+	]
+      },
+      '/download'
+    ],
+    
     displayAllHeaders: true
   }
 }
