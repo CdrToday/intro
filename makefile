@@ -4,6 +4,5 @@ run:
 	mv ./src/.vuepress/dist docs
 	git add .
 
-	DATE="$(date)"
-	git commit -m DATE
+	git commit -m date
 	git push
