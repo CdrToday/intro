@@ -7,7 +7,11 @@ module.exports = {
       '/', 
       {
 	title: '设计',
-	path: '/arch/'
+	path: '/arch/',
+	children: [
+	  '/arch/funcs',
+	  '/arch/status'
+	],
       },{
 	title: '版本',
 	path: '/versions/',
