@@ -4,4 +4,4 @@ ___cdr.today —— Louder than Words.___
 
 ### cdr.today
 
-`cdr.today` 是一款以简洁的博客平台，旨在写博客给朋友看。
+`cdr.today` 是一款介于博客与协作工具之间的社区应用

@@ -5,18 +5,20 @@ module.exports = {
   themeConfig: {
     sidebar: [
       '/', 
+      // {
+      // 	// title: '设计',
+      // 	// path: '/arch/',
+      // 	// children: [
+      // 	  // '/arch/funcs',
+      // 	  // '/arch/status'
+      // 	],
+      // },
       {
-	title: '设计',
-	path: '/arch/',
-	children: [
-	  '/arch/funcs',
-	  '/arch/status'
-	],
-      },{
 	title: '版本',
-	path: '/versions/',
+	// path: '/versions/',
 	children: [
 	  '/versions/v0.1.x',
+	  '/versions/v0.2.x',
 	]
       },
       '/download'
