@@ -67,6 +67,10 @@ bloc flutter 接口。
 
 官方制作，选取相册中的图片。
 
+### [flutter_swiper][flutter_swiper]
+
+左拉菜单中的滑动效果，flutter_swiper 做得非常完善，Ct 在使用过程中添加了页面标识背景。
+
 ### [qr_code_tools][qr_code_tools]
 
 小巧的 qrcode 解码器，用于扫码加入社区。
@@ -111,17 +115,17 @@ bloc flutter 接口。
 
 Ct 也有开源计划，Reddit 那样，如今还缺少打磨的精力。
 
-### CtEditr
+### [CtEditor](https://github.com/cdr-today/zefyr)
 
 Ct 在后期会制作一款 RichText 编辑器，以 zefyr 为蓝本，提供更多自定义接口。
 
-### Luna
+### [Luna](https://github.com/odditypark/luna)
 
 Ct 的信息存储最终会走向分布式，Luna 的 dart 版将为此提供支持。
 
 Luna 是小子规划中的一个 runtime，受区块链启发，Ct 稳步运作后即开始继续开发。
 
-### Sonata
+### [Sonata](https://github.com/sonata-lang/sonata)
 
 Sonata 是小子规划的一款 DSL，与 Luna 搭配制作，如果一切顺利，未来一天，Sonata 会将 Ct 提升到一个前所未有的高度。
 
