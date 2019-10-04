@@ -21,11 +21,11 @@ flutter 逻辑与视图统一，是更为现代化的作品。
 
 ### [http][http]
 
-dart 团队制作的 http 库，提供非常便捷的封装，非常友好。
+dart 团队制作的 http 库，提供了非常便捷的封装。
 
 ### [uuid][uuid]
 
-不输各语言的 uuid 库，拿来就用，在 Ct 中主要用来生成图片名，团队 id。
+不输各语言的 uuid 库，拆封即用，在 Ct 中主要用来生成图片名，团队 id。
 
 ### [zefyr][zefyr]
 
@@ -45,7 +45,7 @@ Ct 中所使用的 RichText 编辑器，可以说是第三方库中的最佳，�
 
 ### [equatable][equatable]
 
-blocs 好伙伴，用与类型判断。
+blocs 好伙伴，用于类型判断。
 
 ### [quill_delta][quill_delta]
 
