@@ -26,6 +26,7 @@ module.exports = {
 	]
       },
     ],
-    displayAllHeaders: false
+    displayAllHeaders: false,
+    lastUpdated: 'Last Updated'
   }
 }
