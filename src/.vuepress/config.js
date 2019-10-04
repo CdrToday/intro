@@ -9,7 +9,6 @@ module.exports = {
       {
 	title: '隐私',
 	// path: '/privacy/',
-	collapsable: false,
         sidebarDepth: 0,
 	children: [
 	  '/privacy/zh',
@@ -19,12 +18,16 @@ module.exports = {
       {
 	title: '版本',
 	// path: '/versions/',
-	collapsable: false,
 	children: [
 	  '/versions/v0.1.x',
 	  '/versions/v0.2.x',
 	]
       },
+      {
+	title: '开源',
+	path: '/deps',
+	sidebarDepth: 0,
+      }
     ],
     displayAllHeaders: false,
     lastUpdated: 'Last Updated'

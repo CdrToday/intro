@@ -1,4 +1,5 @@
-## Privacy Policy
+# Privacy Policy
+---
 
 Mercury Fletcher built the cdr.today app as a Free app. This SERVICE is provided by Mercury Fletcher at no cost and is intended for use as is.
 
