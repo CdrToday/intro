@@ -6,9 +6,9 @@ module.exports = {
     sidebar: [
       '/', 
       '/download',
+      `/test`,
       {
 	title: '版本',
-	// path: '/versions/',
 	children: [
 	  '/versions/v0.1.x',
 	  '/versions/v0.2.x',
