@@ -1,3 +1,8 @@
+---
+title: 跳转中...
+permalink: /x/download
+---
+
 跳转中....
 
 ---
