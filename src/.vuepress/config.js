@@ -6,7 +6,6 @@ module.exports = {
     sidebar: [
       '/', 
       '/download',
-      '/bug',
       `/test`,
       {
 	title: '版本',
