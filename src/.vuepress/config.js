@@ -13,6 +13,8 @@ module.exports = {
 	children: [
 	  '/versions/v0.1.x',
 	  '/versions/v0.2.x',
+	  '/versions/v0.3.x',
+	  '/versions/v0.4.x',
 	]
       }, {
 	title: '路线图',
