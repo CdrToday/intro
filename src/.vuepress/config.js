@@ -7,6 +7,7 @@ module.exports = {
       '/', 
       '/download',
       `/test`,
+      '/faq',
       {
 	title: '版本',
 	children: [
