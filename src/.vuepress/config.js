@@ -15,6 +15,7 @@ module.exports = {
 	  '/versions/v0.2.x',
 	  '/versions/v0.3.x',
 	  '/versions/v0.4.x',
+	  '/versions/v0.5.x',
 	]
       }, {
 	title: '路线图',
